@@ -3,9 +3,7 @@
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
 (https://ibb.co/ZWy1tYq)
 
-<p align="center">
-    <img src="C:\Users\User\Pictures\screen1.PNG" height="400"/>
-</p>
+
 
 ## Desafio para aula
 
