@@ -1,7 +1,7 @@
 # Calculadora de IMC
 
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
-![alt text](https://ibb.co/ZWy1tYq)
+(https://ibb.co/ZWy1tYq)
 
 <p align="center">
     <img src="C:\Users\User\Pictures\screen1.PNG" height="400"/>
