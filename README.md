@@ -3,7 +3,7 @@
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
 
 <p align="center">
-    <img src="C:\Users\User\Pictures\BeFunky-collage.jpg" height="400"/>
+    <img src="https://miro.medium.com/max/1440/1*2JCTeW4Use_q4OmA1gnC1w.png" height="400"/>
 </p>
 
 ## Desafio para aula
