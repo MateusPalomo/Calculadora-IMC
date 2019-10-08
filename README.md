@@ -13,7 +13,7 @@ Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mob
 
 
 
-## Desafio para aula
+## Alguns desafios resolvidos do projeto
 
 :heavy_check_mark:   Adicionar botões (Toggle ouRadio button) para escolha de gênero ([masculino](https://indicedemassacorporal.com/movel/calculo-imc-masculino.html) / [feminino](https://indicedemassacorporal.com/movel/calculo-imc-feminino.html));
 
