@@ -3,7 +3,7 @@
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
 
 <p align="center">
-    <img src="C:\Users\User\Pictures\screen1.PNG" height="400"/>
+    <img src="https://uploaddeimagens.com.br/imagens/screen1-png-25532844-fc36-4d3d-98fc-e1f193d6870b" height="400"/>
     <img src="C:\Users\User\Pictures\screen2.PNG" height="400"/>
     <img src="C:\Users\User\Pictures\screen3.PNG" height="400"/>
     <img src="C:\Users\User\Pictures\screen4.PNG" height="400"/>
