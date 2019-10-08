@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
+Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile com Flutter.
 
 <p align="center">
     <img src="https://github.com/MateusPalomo/Calculadora-IMC/blob/master/images/screen1.PNG" height="400"/>
