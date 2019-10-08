@@ -1,8 +1,12 @@
 # Calculadora de IMC
 
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
-(https://ibb.co/ZWy1tYq)
 
+<p align="center">
+    <img src="https://github.com/MateusPalomo/Calculadora-IMC/blob/master/images/screen1.png" height="400"/>
+    <img src="https://github.com/MateusPalomo/Calculadora-IMC/blob/master/images/screen2.png" height="400"/>
+    <img src="https://github.com/MateusPalomo/Calculadora-IMC/blob/master/images/screen3.png" height="400"/>
+</p>
 
 
 
